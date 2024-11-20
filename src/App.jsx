@@ -1,9 +1,29 @@
-import React from "react";
+import Header from './components/Header';
 
 const App = () => {
   return (
-    <div>
-      <h1 className="text-3xl font-bold underline">Hello world!</h1>
+    <div className="bg-slate-100">
+      <Header />
+      <h1>oi</h1>
+      <h1>oi</h1>
+      <h1>oi</h1>
+      <h1>oi</h1>
+      <h1>oi</h1>
+      <h1>oi</h1>
+      <h1>oi</h1>
+      <h1>oi</h1>
+      <h1>oi</h1>
+      <h1>oi</h1>
+      <h1>oi</h1>
+      <h1>oi</h1>
+      <h1>oi</h1>
+      <h1>oi</h1>
+      <h1>oi</h1>
+      <h1>oi</h1>
+      <h1>oi</h1>
+      <h1>oi</h1>
+      <h1>oi</h1>
+      <h1>oi</h1>
     </div>
   );
 };
